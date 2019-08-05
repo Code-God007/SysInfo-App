@@ -1,0 +1,14 @@
+{
+  "name": "sysinfo",
+  "version": "1.0.0",
+  "description": "Basic app to display system info",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nitish Dhiman",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^6.0.0"
+  }
+}
